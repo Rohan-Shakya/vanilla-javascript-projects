@@ -122,3 +122,13 @@ _At their most basic, to-dos contain all of the tasks that you need to complete 
 - Date() : For unique id
 
 #### Demo:
+
+---
+
+## 11. Rock Paper Scissor - Vanilla Javascript
+
+_Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors"._
+
+#### Demo:
+
+---
