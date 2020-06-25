@@ -35,7 +35,7 @@ _Ludo is very popular game invented in India._
 
 ---
 
-## 3. Weight Convertor - Vanilla JavaScript
+## 4. Weight Convertor - Vanilla JavaScript
 
 _Weight Convertor helps us to convert the weight into various units such us kilograms(kg), grams(gm), pounds(lb) etc._
 
