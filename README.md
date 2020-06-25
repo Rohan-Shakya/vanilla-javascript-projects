@@ -236,3 +236,17 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 #### Preview:
 
 ---
+
+## 20. Weather App - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3
+- Font Awesome
+- Async/Await
+- API: https://api.openweathermap.org
+
+#### Preview:
+
+---
