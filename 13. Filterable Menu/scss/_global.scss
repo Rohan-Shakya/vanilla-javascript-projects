@@ -1,0 +1,71 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap');
+
+// Variables
+$ff-primary: 'Roboto', sans-serif;
+$ff-secondary: 'Open Sans', sans-serif;
+$clr-grey-1: rgb(16, 42, 66);
+$clr-grey-5: rgb(97, 125, 152);
+$clr-grey-10: rgb(250, 250, 244);
+$spacing: 0.25rem;
+$clr-white: #fff;
+$clr-gold: #c59d5f;
+$radius: 0.5rem;
+$transition: all 0.3s linear;
+
+// global styles
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: $ff-secondary;
+  background: $clr-grey-10;
+  color: $clr-grey-1;
+  line-height: 1.5;
+  font-size: 0.875rem;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+img:not(.logo) {
+  width: 100%;
+}
+img {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: $spacing;
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  font-family: $ff-primary;
+}
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 0.875rem;
+}
+p {
+  margin-bottom: 1.25rem;
+  color: $clr-grey-5;
+}
+
+/*  global classes */
