@@ -196,3 +196,14 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 ### Preview:
 
 ---
+
+## 16. Quiz Game - Vanilla Javascript
+
+### Used:
+
+- HTML5 ([data-attribute])
+- CSS3
+- Select elements in the DOM with querySelector
+- Event Listeners
+
+---
