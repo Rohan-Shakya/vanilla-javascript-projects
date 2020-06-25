@@ -7,6 +7,7 @@
 _Lorem Ipsum is dummy text which has no meaning however looks very similar to real text._
 
 #### Preview:
+![Lorem Ipsum Generater](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/screencapture-127-0-0-1-5500-Lorem-Ipsum-Generator-index-html-2020-06-25-14_21_37.png)
 
 ### Used:
 
@@ -22,6 +23,7 @@ _There are three temperature scales in common use today: kelvin (K), centigrade 
 In this application, you can easily convert the temperature to any scales._
 
 #### Preview:
+![Temperature Converter](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Temperature-converter.png)
 
 #### Demo: [Temperature Converter](https://vanilla-js-temperature-converter.netlify.app/)
 
@@ -32,7 +34,7 @@ In this application, you can easily convert the temperature to any scales._
 _Ludo is very popular game invented in India._
 
 ### Preview:
-
+![Ludo Game](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Ludo-game.png)
 ---
 
 ## 4. Weight Convertor - Vanilla JavaScript
@@ -50,6 +52,7 @@ _Weight Convertor helps us to convert the weight into various units such us kilo
 ## 5. Full Image Slider - Vanilla JavaScript
 
 #### Preview:
+![Full Image Slider](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Full-image-slider.png)
 
 ### Used:
 
@@ -67,7 +70,7 @@ _Weight Convertor helps us to convert the weight into various units such us kilo
 _Drag and drop is a pointing device gesture in which the user selects a virtual object by "grabbing" it and dragging it to a different location or onto another virtual object._
 
 #### Preview:
-
+![Drag and Drop](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Drag-and-drop.png)
 ---
 
 ## 7. Snow Effect - Vanilla JavaScript
@@ -138,7 +141,7 @@ _Rock paper scissors is a hand game usually played between two people, in which 
 _Form validation normally used to occur at the server, after the client had entered all the necessary data and then pressed the Submit button. ... JavaScript provides a way to validate form's data on the client's computer before sending it to the web server._
 
 #### Preview:
-
+![Form Validation](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Form-validation.png)
 ### Used:
 
 - HTML5
@@ -153,7 +156,7 @@ _Form validation normally used to occur at the server, after the client had ente
 _It is an application that takes input from a user and automatically generates a password. Random Generated password can have numbers, alphabets, symbols._
 
 #### Preview:
-
+![Password Generator](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Password-generater.png)
 ---
 
 ## 14. Filterable Menu - Vanilla Javascript
@@ -172,6 +175,7 @@ _It is an application that takes input from a user and automatically generates a
 _The Match pairs game, is the classic cards game, which will help developing memory skills of children and adults._
 
 #### Preview
+![Memory Game](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Memory-game.png)
 
 ### Used:
 
@@ -194,7 +198,7 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 - OOP Pattern
 
 ### Preview:
-
+![Calculator](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/Calculator.png)
 ---
 
 ## 17. Quiz Game - Vanilla Javascript
@@ -213,6 +217,7 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 #### Demo: [Drawing App](https://vanilla-js-drawing-app.netlify.app/)
 
 #### Preview:
+![Drawing App](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/drawing-app.png)
 
 ### Used:
 
@@ -234,7 +239,7 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 - API : https://api.covid19api.com/summary
 
 #### Preview:
-
+![Corona Tracker](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/drawing-app.png)
 ---
 
 ## 20. Weather App - Vanilla Javascript
@@ -248,7 +253,7 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 - API: https://api.openweathermap.org
 
 #### Preview:
-
+![Weather App](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/weather-app.png)
 ---
 
 ## 21. Movie App - Vanilla Javascript
@@ -263,7 +268,8 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 - API: https://api.themoviedb.org
 
 #### Preview:
-
+![Movie app 1](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/movie-app-1.png)
+![Movie app 2](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/movie-app-2.png)
 ---
 
 ## 22. Currency Convertor - Vanilla Javascript
@@ -277,7 +283,7 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 - API: https://api.exchangeratesapi.io/latest
 
 ### Preview :
-
+![Currency Converter](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/currency-converter.png)
 ---
 
 ## 23. Tic Tac Toe - Vanilla Javascript
@@ -291,6 +297,7 @@ _Tic-tac-toe (American English), noughts and crosses (British English), or Xs an
 - DOM Manipulation
 
 #### Preview:
+![Tic Tac Toe](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/tic-tac-toe.png)
 
 #### Demo: [Tic Tac Toe](https://tic-tac-toe-vanilla-js.netlify.app/)
 
@@ -308,6 +315,7 @@ _The first published by Nokia, for monochrome phones. It was programmed in 1997 
 - Module
 
 #### Preview:
+![Snake Game](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/snake-game.png)
 
 #### Demo:[Snake Game](https://vanilla-js-snake-game.netlify.app/)
 
