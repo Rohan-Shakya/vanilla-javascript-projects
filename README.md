@@ -250,3 +250,18 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 #### Preview:
 
 ---
+
+## 21. Movie App - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3
+- Bootstrap
+- Axios
+- Promises
+- API: https://api.themoviedb.org
+
+#### Preview:
+
+---
