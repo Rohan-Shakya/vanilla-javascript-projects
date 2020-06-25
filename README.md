@@ -265,3 +265,17 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 #### Preview:
 
 ---
+
+## 22. Currency Convertor - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3
+- Font Awesome
+- Promises
+- API: https://api.exchangeratesapi.io/latest
+
+### Preview :
+
+---
