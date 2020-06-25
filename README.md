@@ -155,3 +155,14 @@ _It is an application that takes input from a user and automatically generates a
 #### Preview:
 
 ---
+
+## 14. Filterable Menu - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- SCSS
+- Module
+- Higher Order Functions
+
+---
