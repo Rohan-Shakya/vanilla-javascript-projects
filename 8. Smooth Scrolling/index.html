@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Smooth Scroll</title>
+    <!-- ######### FONT AWESOME ######## -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"
+      integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V"
+      crossorigin="anonymous"
+    />
+    <!-- ####### CUSTOM CSS ########## -->
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <!-- header -->
+    <header id="home">
+      <!-- navbar -->
+      <nav id="nav">
+        <div class="nav-center">
+          <!-- nav header -->
+          <img src="./img/logo.png" alt="logo" class="logo" />
+          <button class="nav-toggle">
+            <i class="fas fa-bars"></i>
+          </button>
+        </div>
+        <!-- links -->
+        <div class="links-container">
+          <ul class="links">
+            <li>
+              <a href="#home" class="scroll-link">Home</a>
+            </li>
+            <li>
+              <a href="#about" class="scroll-link">about</a>
+            </li>
+            <li>
+              <a href="#services" class="scroll-link">services</a>
+            </li>
+            <li>
+              <a href="#tours" class="scroll-link">tours</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <!-- banner -->
+      <div class="banner">
+        <div class="container">
+          <h1>Scroll Project</h1>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
+            quaerat dolores sunt est ab aperiam obcaecati quod qui consequuntur
+            id!
+          </p>
+          <a href="#tours" class="scroll-link btn btn-white">Explore tours</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- about  -->
+    <section id="about" class="section">
+      <div class="title">
+        <h2>about <span>us</span></h2>
+      </div>
+    </section>
+    <!-- services  -->
+    <section id="services" class="section">
+      <div class="title">
+        <h2>our <span>Services</span></h2>
+      </div>
+    </section>
+    <!-- tours  -->
+    <section id="tours" class="section">
+      <div class="title">
+        <h2>featured <span>towards</span></h2>
+      </div>
+    </section>
+
+    <!-- footer -->
+    <footer class="section">
+      <p>
+        Copyright &copy; backroads trave tours company
+        <span id="date">2020</span>.all rights reserved
+      </p>
+    </footer>
+    <!-- back to top button -->
+    <a href="#home" class="scroll-link top-link"
+      ><i class="fas fa-arrow-up"></i
+    ></a>
+
+    <!-- ######### JAVASCRIPT ########### -->
+    <script src="./js/app.js"></script>
+  </body>
+</html>
