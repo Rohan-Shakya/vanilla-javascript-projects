@@ -197,7 +197,7 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 
 ---
 
-## 16. Quiz Game - Vanilla Javascript
+## 17. Quiz Game - Vanilla Javascript
 
 ### Used:
 
