@@ -8,6 +8,40 @@
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
+    <!-- Header -->
+    <header>
+      <h1>Simple Drawing App</h1>
+      <img src="/img/download.png" id="myDownload" alt="download" />
+    </header>
+
+    <!-- Download Button -->
+    <div class="download-option hide" id="download-option">
+      <button id="png-option">PNG</button>
+      <hr />
+      <button id="jpeg-option">JPEG</button>
+    </div>
+    <!-- Canvas -->
+    <canvas id="canvas"></canvas>
+
+    <!-- footer -->
+    <div class="palette-color hide" id="palette-color"></div>
+    <div id="radius" class="hide">
+      Radius: <span id="radius-value">10</span>
+      <div id="radius-increment" class="radius-control">+</div>
+      <div id="radius-decrement" class="radius-control">-</div>
+    </div>
+    <div id="eraser-size" class="hide">
+      Size: <span id="eraser-size-value">10</span>
+      <div id="eraser-increment" class="size-control">+</div>
+      <div id="eraser-decrement" class="size-control">-</div>
+    </div>
+    <footer>
+      <img src="./img/palette.png" id="palette" alt="" />
+      <img src="./img/pencil.png" id="pencil" alt="" />
+      <img src="./img/eraser.png" id="eraser" alt="" />
+      <img src="./img/repeat.png" id="repeat" alt="" />
+    </footer>
+
     <!-- ########### JAVASCRIPT ########### -->
     <script src="./js/app.js"></script>
   </body>
