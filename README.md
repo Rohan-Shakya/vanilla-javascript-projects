@@ -69,3 +69,16 @@ _Drag and drop is a pointing device gesture in which the user selects a virtual 
 #### Preview:
 
 ---
+
+## 7. Snow Effect - Vanilla JavaScript
+
+### Used:
+
+- HTML5
+- CSS3 (Animation)
+- Font Awesome
+- Select elements in the DOM with querySelector.
+- SetTimeout
+- Setinterval
+
+---
