@@ -1,0 +1,55 @@
+/* ###### GOOGLE FONTS ##### */
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+/* #### UNIVERSAL SELECTOR ######### */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #323975;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Muli', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  text-align: center;
+}
+
+.fa-snowflake {
+  animation: fall linear forwards infinite;
+  color: #fff;
+  position: absolute;
+  top: -20px;
+}
+
+@keyframes fall {
+  to {
+    transform: translateY(105vh);
+  }
+}
+.countdown-container {
+  display: flex;
+  margin-top: 1rem;
+  justify-content: center;
+}
+.time {
+  display: flex;
+  font-size: 1.2em;
+  flex-direction: column;
+  margin: 0 15px;
+}
+
+.time h1 {
+  margin-bottom: 0;
+}
+
+.time small {
+  color: #ccc;
+}
