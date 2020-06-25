@@ -221,3 +221,18 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 - window.navigator.msSaveBlob : for downloading image
 
 ---
+
+## 19. CORONA Tracker - Vanilla Javascript
+
+_Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. This application wil provide information such as confirmed cases, recoverd, death rate etc of NEPAL._
+
+### Used:
+
+- HTML5
+- CSS3
+- Promises
+- API : https://api.covid19api.com/summary
+
+#### Preview:
+
+---
