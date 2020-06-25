@@ -46,3 +46,18 @@ _Weight Convertor helps us to convert the weight into various units such us kilo
 - Selecting elements using querySelector
 
 ---
+
+## 5. Full Image Slider - Vanilla JavaScript
+
+#### Preview:
+
+### Used:
+
+- HTML5
+- CSS3 (Pseudo classes, Media queries, etc)
+- Font Awesome
+- Select elements in the DOM with querySelector.
+- SetTimeout
+- Setinterval
+
+---
