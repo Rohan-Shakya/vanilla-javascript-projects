@@ -8,6 +8,78 @@
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
+    <div class="title">Weight Converter</div>
+    <form>
+      <table>
+        <tr>
+          <td>
+            <label>Weight in KG:</label>
+          </td>
+          <td>
+            <input
+              type="number"
+              name="kg"
+              id="in_kg"
+              placeholder="Enter here"
+            />
+          </td>
+          <td>
+            <input
+              type="button"
+              value="Convert"
+              name="submit"
+              id="inputValue"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>Weight in Grams:</label>
+          </td>
+          <td>
+            <input type="number" name="in_g" id="grams" disabled />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>Pounds:</label>
+          </td>
+          <td>
+            <input type="number" name="in_p" id="pounds" disabled />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>MilliGram:</label>
+          </td>
+          <td>
+            <input type="number" name="in_m" id="mg" disabled />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>US Ton:</label>
+          </td>
+          <td>
+            <input type="number" name="in_t" id="Us_tons" disabled />
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <label>Ounces:</label>
+          </td>
+          <td>
+            <input type="number" name="in_o" id="ounce" disabled />
+          </td>
+        </tr>
+      </table>
+      <div id="grams"></div>
+
+      <br />
+      <input type="reset" name="reset" value="Reset Form" />
+      <p>Note: You can press reset button for another conversion</p>
+    </form>
+
     <!-- ####### JAVASCRIPT ######## -->
     <script src="./js/app.js"></script>
   </body>
