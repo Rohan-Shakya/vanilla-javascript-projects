@@ -1,0 +1,102 @@
+/* #### GOOGLE FONTS #####  */
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700&display=swap');
+
+/* Universal selector */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* body */
+body {
+  background-color: rgb(48, 48, 48);
+  font-family: 'Asap', sans-serif;
+}
+
+.container {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  width: 80%;
+  height: 70vh;
+  text-align: center;
+  margin: 100px auto;
+  max-width: 768px;
+}
+.container h1 {
+  color: #ffffff;
+  padding: 20px 0;
+  letter-spacing: 2px;
+}
+.container .temperature {
+  width: 80%;
+  height: 70%;
+  margin: 0 auto;
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+/* .temperature div{
+    padding: 20px 0;
+    
+} */
+.temperature label {
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 2px;
+}
+
+input[type='number'] {
+  width: 100%;
+  height: 40px;
+  background: transparent;
+  font-size: 1rem;
+  padding: 0 15px;
+  margin-top: 10px;
+  outline: none;
+  border: 0.5px solid white;
+  border-radius: 10px;
+  color: white;
+}
+input[type='number']:hover {
+  box-shadow: 0 0 5px 2px #dcd5d580;
+}
+
+::-webkit-input-placeholder {
+  /*For chrome/opera/safari */
+  color: #ffffff80;
+  font-size: 1rem;
+}
+::-moz-placeholder {
+  /*For firefox */
+  color: #ffffff80;
+  font-size: 1rem;
+}
+::-ms-input-placeholder {
+  /*For microsoft edge */
+  color: #ffffff80;
+  font-size: 1rem;
+}
+
+/* ########## Media Queries ####### */
+@media (max-width: 480px) {
+  .container {
+    margin: 40px auto;
+  }
+  .container h1 {
+    font-size: 25px;
+  }
+  .temperature div {
+    padding-top: 15px;
+  }
+}
+@media (max-width: 350px) {
+  .temperature label {
+    font-size: 18px;
+  }
+  input[type='number'] {
+    height: 30px;
+    font-size: 16px;
+  }
+}
