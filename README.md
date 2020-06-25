@@ -96,3 +96,15 @@ _Drag and drop is a pointing device gesture in which the user selects a virtual 
 - Date()
 
 ---
+
+## 9. BookMarker - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3
+- Bootstrap
+- Local Storage
+- Regular Expression
+
+---
