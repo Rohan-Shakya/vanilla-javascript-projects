@@ -239,7 +239,7 @@ _Coronavirus disease (COVID-19) is an infectious disease caused by a newly disco
 - API : https://api.covid19api.com/summary
 
 #### Preview:
-![Corona Tracker](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/drawing-app.png)
+![Corona Tracker](https://github.com/Rohan-Shakya/25-Vanilla-Javascript-Projects/blob/master/preview/corona%20tracter.png)
 ---
 
 ## 20. Weather App - Vanilla Javascript
