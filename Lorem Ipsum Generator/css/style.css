@@ -1,0 +1,79 @@
+/* ####### Google Fonts ######### */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+/* ### CUSTOM CSS VARIABLES #### */
+:root {
+  --main-bg-color: beige;
+  --primary-color: #063251;
+  --secondary-color: #618cbd;
+  --hover: #3d546d;
+  --primary-fonts: 'Open Sans', sans-serif;
+}
+
+/* ######### UNIVERSAL SELECTOR ######### */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--primary-fonts);
+}
+
+body {
+  background-color: var(--main-bg-color);
+  text-transform: capitalize;
+}
+.section-center {
+  max-width: 768px;
+  margin: auto;
+  text-align: center;
+  margin-top: 50px;
+  padding: 0 1rem;
+}
+.section-center h3 {
+  font-size: 1.7rem;
+  color: var(--primary-color);
+  letter-spacing: 2px;
+}
+.lorem-form {
+  margin-top: 1.5rem;
+}
+label {
+  font-size: 1.1rem;
+  color: var(--primary-color);
+  letter-spacing: 2px;
+}
+
+#amount {
+  border: 1px solid transparent;
+  outline: none;
+  padding: 0.8rem;
+  width: 100px;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 1rem;
+  background-color: #ffffff;
+}
+#amount:focus {
+  border: 1px solid var(--secondary-color);
+}
+.btn {
+  border: none;
+  outline: none;
+  background-color: var(--secondary-color);
+  padding: 0.5rem;
+  margin-left: 10px;
+  color: #ffffff;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+.btn:hover {
+  background-color: var(--hover);
+}
+.lorem-text {
+  margin-top: 3rem;
+  color: rgb(59, 59, 54);
+}
+.lorem-text p.result {
+  line-height: 1.5rem;
+  margin-bottom: 2rem;
+}
