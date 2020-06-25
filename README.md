@@ -23,7 +23,7 @@ In this application, you can easily convert the temperature to any scales._
 
 #### Preview:
 
-#### Demo:
+#### Demo: [Temperature Converter](https://vanilla-js-temperature-converter.netlify.app/)
 
 ---
 
@@ -121,7 +121,7 @@ _At their most basic, to-dos contain all of the tasks that you need to complete 
 - Local Storage
 - Date() : For unique id
 
-#### Demo:
+#### Demo: [Todo List](https://vanilla-js-todo-list.netlify.app/)
 
 ---
 
@@ -129,7 +129,7 @@ _At their most basic, to-dos contain all of the tasks that you need to complete 
 
 _Rock paper scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock", "paper", and "scissors"._
 
-#### Demo:
+#### Demo: [Rock Paper Scissor](https://vanilla-js-rock-paper-scissor.netlify.app/)
 
 ---
 
@@ -210,7 +210,7 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 
 ## 18. Drawing App - Vanilla Javascript
 
-#### Demo:
+#### Demo: [Drawing App](https://vanilla-js-drawing-app.netlify.app/)
 
 #### Preview:
 
@@ -292,7 +292,7 @@ _Tic-tac-toe (American English), noughts and crosses (British English), or Xs an
 
 #### Preview:
 
-#### Demo:
+#### Demo: [Tic Tac Toe](https://tic-tac-toe-vanilla-js.netlify.app/)
 
 ---
 
@@ -309,7 +309,7 @@ _The first published by Nokia, for monochrome phones. It was programmed in 1997 
 
 #### Preview:
 
-#### Demo:
+#### Demo:[Snake Game](https://vanilla-js-snake-game.netlify.app/)
 
 ---
 
