@@ -312,3 +312,15 @@ _The first published by Nokia, for monochrome phones. It was programmed in 1997 
 #### Demo:
 
 ---
+
+## 25. Github Profile Finder - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3
+- Async/Await
+- API: https://api.github.com/users/
+
+---
+
