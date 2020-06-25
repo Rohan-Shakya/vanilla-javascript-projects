@@ -295,3 +295,20 @@ _Tic-tac-toe (American English), noughts and crosses (British English), or Xs an
 #### Demo:
 
 ---
+
+## 24. Snake Game - Vanilla Javascript
+
+_The first published by Nokia, for monochrome phones. It was programmed in 1997 by Taneli Armanto of Nokia and introduced on the Nokia 6110._
+
+### Used:
+
+- HTML5
+- CSS3 (Grid)
+- requestAnimationFrame(main)
+- Module
+
+#### Preview:
+
+#### Demo:
+
+---
