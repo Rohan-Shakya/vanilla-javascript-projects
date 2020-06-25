@@ -184,3 +184,17 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 - CSS3: positioning, flexbox, perspective, backface-visibility, transitions
 
 ---
+
+## 16. Calculator - Vanilla Javascript
+
+### Used:
+
+- HTML5: data-attribute
+- CSS3: grid
+- OOP Pattern
+
+### Preview:
+
+![Calculator](http://www.traversymedia.com)
+
+---
