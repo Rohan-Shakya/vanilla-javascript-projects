@@ -61,3 +61,11 @@ _Weight Convertor helps us to convert the weight into various units such us kilo
 - Setinterval
 
 ---
+
+## 6. Drag and Drop - Vanilla JavaScript
+
+_Drag and drop is a pointing device gesture in which the user selects a virtual object by "grabbing" it and dragging it to a different location or onto another virtual object._
+
+#### Preview:
+
+---
