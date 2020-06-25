@@ -82,3 +82,17 @@ _Drag and drop is a pointing device gesture in which the user selects a virtual 
 - Setinterval
 
 ---
+
+## 8. Smooth Scrolling - Vanilla Javascript
+
+### Used:
+
+- HTML5
+- CSS3 (Flexbox, Variables etc)
+- SCSS
+- Font Awesome
+- Select elements in the DOM with querySelector.
+- getBoundingClientRect()
+- Date()
+
+---
