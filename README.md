@@ -132,3 +132,18 @@ _Rock paper scissors is a hand game usually played between two people, in which 
 #### Demo:
 
 ---
+
+## 12. Form Validation - Vanilla Javascript
+
+_Form validation normally used to occur at the server, after the client had entered all the necessary data and then pressed the Submit button. ... JavaScript provides a way to validate form's data on the client's computer before sending it to the web server._
+
+#### Preview:
+
+### Used:
+
+- HTML5
+- CSS3
+- Font Awesome
+- Regular Expression
+
+---
