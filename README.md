@@ -147,3 +147,11 @@ _Form validation normally used to occur at the server, after the client had ente
 - Regular Expression
 
 ---
+
+## 13. Password Generator - Vanilla Javascript
+
+_It is an application that takes input from a user and automatically generates a password. Random Generated password can have numbers, alphabets, symbols._
+
+#### Preview:
+
+---
