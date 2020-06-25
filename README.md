@@ -195,6 +195,4 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 
 ### Preview:
 
-![Calculator](http://www.traversymedia.com)
-
 ---
