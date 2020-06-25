@@ -15,3 +15,14 @@ _Lorem Ipsum is dummy text which has no meaning however looks very similar to re
 - Select elements in the DOM with querySelector.
 
 ---
+
+## 2. Temperature Convertor - Vanilla Javascript
+
+_There are three temperature scales in common use today: kelvin (K), centigrade or Celsius (C), and Fahrenheit (F).
+In this application, you can easily convert the temperature to any scales._
+
+#### Preview:
+
+#### Demo:
+
+---
