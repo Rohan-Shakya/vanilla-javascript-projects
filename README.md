@@ -166,3 +166,19 @@ _It is an application that takes input from a user and automatically generates a
 - Higher Order Functions
 
 ---
+
+## 15. Memory Game - Vanilla Javascript
+
+_The Match pairs game, is the classic cards game, which will help developing memory skills of children and adults._
+
+### Used:
+
+- Select elements in the DOM with querySelector
+- iterate through lists with forEach
+- add/remove an element class
+- add/remove event listeners
+- Timeout
+- HTML5: data-attribute
+- CSS3: positioning, flexbox, perspective, backface-visibility, transitions
+
+---
