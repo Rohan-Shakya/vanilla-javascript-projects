@@ -171,6 +171,8 @@ _It is an application that takes input from a user and automatically generates a
 
 _The Match pairs game, is the classic cards game, which will help developing memory skills of children and adults._
 
+#### Preview
+
 ### Used:
 
 - Select elements in the DOM with querySelector
