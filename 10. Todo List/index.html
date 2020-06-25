@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TODO List</title>
+    <!-- ######## FONT AWESOME ######### -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
+      integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q"
+      crossorigin="anonymous"
+    />
+    <!-- ########## CUSTOM CSS ###################################### -->
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <section class="section-center">
+      <!-- form  -->
+      <form class="grocery-form">
+        <p class="alert"></p>
+        <h3>Today's List</h3>
+        <div class="form-control">
+          <input
+            type="text"
+            placeholder="e.g. buying vegetables"
+            id="grocery"
+          />
+          <button type="submit" class="submit-btn">Submit</button>
+        </div>
+      </form>
+      <!-- list -->
+      <div class="grocery-container">
+        <div class="grocery-list">
+          <article class="grocery-item">
+            <!-- <p class="title">item</p>
+            <div class="btn-container">
+              <button class="edit-btn"><i class="fas fa-edit"></i></button>
+              <button class="delete-btn"><i class="fas fa-trash"></i></button>
+            </div> -->
+          </article>
+        </div>
+        <!-- button -->
+        <button class="clear-btn">clear items</button>
+      </div>
+    </section>
+    <!-- ######### JAVASCRIPT ########## -->
+    <script src="./js/app.js"></script>
+  </body>
+</html>
