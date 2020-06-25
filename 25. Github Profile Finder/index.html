@@ -8,8 +8,41 @@
     <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
-      
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-header">
+          <a href="#">GitFetch - Profile Finder for GitHub</a>
+        </div>
+      </div>
+    </nav>
+    <!-- main -->
+    <main>
+      <div class="container">
+        <div class="searchContainer">
+          <h1>Search Github Users</h1>
+          <p class="lead">
+            Enter a username to fetch a users profile info and repos
+          </p>
+          <input
+            type="text"
+            id="searchUser"
+            class="form-control"
+            placeholder="Github Username..."
+          />
+        </div>
+        <br />
+        <div id="profile">
+          <!-- datas -->
+        </div>
+        <br />
+        <div class="repos">
+          <h3 class="page-header">Latest Repos</h3>
+          <div id="repos-list"></div>
+        </div>
+      </div>
+    </main>
+
     <!-- custom javascrupt -->
     <script src="./js/app.js"></script>
-</body>
+  </body>
 </html>
