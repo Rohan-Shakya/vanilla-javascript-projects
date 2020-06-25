@@ -108,3 +108,17 @@ _Drag and drop is a pointing device gesture in which the user selects a virtual 
 - Regular Expression
 
 ---
+
+## 10. Todo List - Vanilla Javascript
+
+_At their most basic, to-dos contain all of the tasks that you need to complete on a given day. It's a great device for managing time that enables you to lay out everything that you need to accomplish and plan and prioritize your day from there._
+
+### Used:
+
+- HTML5
+- SCSS
+- Font Awesome
+- Local Storage
+- Date() : For unique id
+
+#### Demo:
