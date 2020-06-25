@@ -1,0 +1,29 @@
+#movies img,
+#movie img {
+  width: 100%;
+}
+
+/* ##### MEDIA QUERIES ########## */
+@media (min-width: 960px) {
+  #movies .col-md-3 .well {
+    height: 490px;
+  }
+
+  #movies .col-md-3 img {
+    height: 300px;
+  }
+}
+
+li {
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+
+.row > .well {
+  background-color: rgb(41, 41, 41);
+  display: block;
+  width: 90%;
+  margin: auto;
+  padding: 1rem;
+  margin-top: 1rem;
+}
