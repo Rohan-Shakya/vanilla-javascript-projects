@@ -1,0 +1,135 @@
+/* universal selector */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+/* boody */
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: normal;
+  overflow: hidden;
+}
+
+header {
+  width: 100%;
+  background-color: #1f1f1f;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+header h1 {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.download-option {
+  position: fixed;
+  top: 65px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: #333333;
+  width: 80px;
+  border-radius: 0 0 5px 5px;
+}
+
+.download-option > button {
+  margin: 5px;
+  padding: 5px;
+  border: none;
+  font-weight: bold;
+  color: #ffffff;
+  outline: none;
+  background-color: transparent;
+  letter-spacing: 1px;
+}
+#canvas {
+  /* border: 2px solid black; */
+  overflow: hidden;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 15px;
+  background-color: #1f1f1f;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.palette-color {
+  z-index: 1000;
+  position: fixed;
+  bottom: 60px;
+  left: 10%;
+  width: 200px;
+  height: 150px;
+  background-color: #333333;
+  padding: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+.palette-color > .swatch {
+  width: 25px;
+  height: 25px;
+  margin: 8px;
+  background-color: red;
+  border: none;
+  border-radius: 50%;
+  box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.5),
+    0px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.swatch.active {
+  border: 2px solid white;
+  box-shadow: inset 0px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+#radius,
+#eraser-size {
+  position: fixed;
+  left: 30%;
+  bottom: 65px;
+  background-color: #333333;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+
+.radius-control,
+.size-control {
+  width: 30px;
+  height: 30px;
+  background-color: #505050;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  border-radius: 50%;
+  color: white;
+  margin: 0 5px;
+  font-weight: bold;
+}
+
+#eraser-size {
+  left: 50%;
+}
+
+img {
+  width: 25px;
+}
+img:hover {
+  transform: scale(1.1);
+}
+
+.hide {
+  display: none;
+}
