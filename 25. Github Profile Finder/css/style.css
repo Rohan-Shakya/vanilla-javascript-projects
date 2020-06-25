@@ -1,0 +1,207 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  max-width: 100vw;
+  line-height: 1.5;
+  background-color: #fcfcfc;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  font-size: 2rem;
+  color: #212529;
+  font-weight: 500;
+}
+li {
+  list-style: none;
+}
+img {
+  border-radius: 5px;
+  border: 1px solid #8d8d8d;
+  padding: 3px;
+  width: 90%;
+  height: auto;
+}
+p {
+  font-size: 1rem;
+  color: #888888;
+  font-weight: 400;
+}
+.container {
+  width: 75%;
+  margin: auto;
+}
+.navbar {
+  background-color: #d9230f;
+  height: 4rem;
+  text-align: center;
+}
+.navbar-header a {
+  font-size: 1.7rem;
+  line-height: 4rem;
+  color: #ffffff;
+}
+
+main {
+  margin-top: 1rem;
+}
+
+#searchUser {
+  width: 100%;
+  border-radius: 5px;
+  color: #8d8d8d;
+  border: 1px solid #b8b8b8;
+  font-size: 0.9rem;
+  padding: 10px 1rem;
+  outline: none;
+  margin-top: 1rem;
+}
+#searchUser::placeholder {
+  color: #8d8d8d;
+}
+#searchUser:focus {
+  box-shadow: 0 0 6px 2px rgba(51, 51, 51, 0.2);
+}
+
+/* profile details */
+.profile-details {
+  border: 1px solid #d9230f;
+  border-radius: 5px;
+}
+.heading {
+  background-color: #f7f7f7;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  font-size: 1.3rem;
+  padding: 0 1rem;
+  border-radius: 5px 5px 0 0;
+  border-bottom: 0.5px solid #f0f0f0;
+}
+.details {
+  padding: 1.5rem;
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+.user-img .btn-block {
+  width: 90%;
+  border: none;
+  outline: none;
+  background-color: #d9230f;
+  padding: 0.5rem;
+  border-radius: 5px;
+  color: #f7f7f7;
+  font-size: 1.2;
+  font-weight: 500;
+  display: block;
+  text-align: center;
+}
+.badge {
+  display: flex;
+  font-size: 10px;
+}
+.badge span {
+  background-color: #212529;
+  color: #f7f7f7;
+  font-weight: bold;
+  margin-right: 10px;
+  padding: 1px 5px;
+  border-radius: 5px;
+}
+.badge span:nth-child(2) {
+  background-color: #d9230f;
+}
+.badge span:nth-child(3) {
+  background-color: #469408;
+}
+.badge span:nth-child(4) {
+  background-color: #029acf;
+}
+.list-group {
+  margin: 1rem auto;
+}
+.list-group .list {
+  border: 0.5px solid rgb(236, 236, 236);
+  border-collapse: collapse;
+  padding: 10px 1.2rem;
+  font-size: 0.9rem;
+  border-radius: 3px;
+  color: #4b4b4b;
+}
+.repos .page-header {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 0.6rem;
+}
+.repo-desc {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  margin: 10px auto;
+}
+.repo-title {
+  font-weight: bold;
+  color: #212529;
+  font-size: 0.9rem;
+}
+
+.repo-title span {
+  font-weight: 500;
+  font-size: 0.8rem;
+  color: #4b4b4b;
+}
+.repo-detail {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-left: 1rem;
+}
+.repo-detail #visit-repo {
+  background-color: #469408;
+  color: #f7f7f7;
+  font-size: 0.9rem;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 0.5rem 0.8rem;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .repos {
+    text-align: center;
+  }
+  .repo-desc {
+    margin-bottom: 1rem;
+    grid-template-columns: 1fr;
+  }
+  .details {
+    grid-template-columns: 1fr;
+  }
+  .user-img {
+    text-align: center;
+  }
+  .user-detail {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  .badge {
+    display: flex;
+    font-size: 10px;
+    justify-content: center;
+  }
+  .heading {
+    text-align: center;
+  }
+}
