@@ -207,3 +207,17 @@ _The Match pairs game, is the classic cards game, which will help developing mem
 - Event Listeners
 
 ---
+
+## 18. Drawing App - Vanilla Javascript
+
+#### Demo:
+
+#### Preview:
+
+### Used:
+
+- HTML5 Canvas
+- CSS3
+- window.navigator.msSaveBlob : for downloading image
+
+---
