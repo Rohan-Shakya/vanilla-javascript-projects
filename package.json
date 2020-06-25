@@ -1,0 +1,11 @@
+{
+  "name": "25_vanilla_javascript_projects",
+  "version": "1.0.0",
+  "description": "Vanilla Javascript Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Shakya",
+  "license": "MIT"
+}
